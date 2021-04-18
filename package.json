@@ -1,0 +1,20 @@
+{
+  "name": "jojocoders-sentiment-analysis-ebed3b2ce49f",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.888.0",
+    "serverless": "^1.60.3",
+    "serverless-webpack": "^5.3.1",
+    "sls": "^0.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.46.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
